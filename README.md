@@ -16,3 +16,8 @@ Here, I have created a Recurrent Neural Network and train edit on a tweet emotio
  
 This is a multi class classification problem in the Natural Language Processing domain. 
 I have used TensorFlow and used Keras api as my machine learning framework.
+
+
+This is my Kaggle link for the project. Feel free to check it out.
+
+https://www.kaggle.com/code/pallavrajsahoo/tweet-emotion-classification-using-rnn/notebook#Tweet-Emotion-Recognition:-Natural-Language-Processing-with-TensorFlow
